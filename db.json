@@ -190,15 +190,6 @@
 	},
 
 	{
-	"id": 22,
-	"weight": 212,
-	"race": "hispanic",
-	"height": 68,
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 23,
 	"weight": 135,
 	"race": "white",
