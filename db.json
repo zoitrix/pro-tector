@@ -64,15 +64,6 @@
 	},
 
 	{
-	"id": 8,
-	"weight": 135,
-	"race": "white",
-	"height": 66,
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 9,
 	"weight": 140,
 	"race": "white",
@@ -190,15 +181,6 @@
 	},
 
 	{
-	"id": 23,
-	"weight": 135,
-	"race": "white",
-	"height": 63,
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 24,
 	"weight": 110,
 	"race": "white",
@@ -248,15 +230,6 @@
 	"weight": 112,
 	"race": "white",
 	"height": 64,
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
-	"id": 30,
-	"weight": 120,
-	"race": "white",
-	"height": 65,
 	"owner": "https://www.fbi.gov/wanted/api",
 	"api": "https://api.fbi.gov/wanted/v1/list"
 	}
