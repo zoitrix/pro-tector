@@ -217,15 +217,6 @@
 	},
 
 	{
-	"id": 28,
-	"weight": 120,
-	"race": "white",
-	"height": 65,
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 29,
 	"weight": 112,
 	"race": "white",
